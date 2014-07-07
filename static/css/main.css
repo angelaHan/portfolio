@@ -1,6 +1,15 @@
 .step {
-	padding: 30px 0px;
+	padding: 50px 0px;
+	font-family: verdana;
+}
+
+.step h1{
 	font-family: consolas;
+	color: #03004c;
+}
+
+.step h2{
+	font-family: verdana;
 }
 
 #my_portfolio_navbar {
@@ -26,21 +35,21 @@
 	height: auto;
 }
 
-.carousel-control.left{
-	background-image: none;
-}
-
-.carousel-control.right{
-	background-image: none;
-}
-
-.carousel-caption h1{
-	vertical-align: middle;
-}
-
 #background_home {
 	background-color: rgba(0,0,0,0.5);
 	padding:200px 0 300px;
+}
+
+#step_profile {
+	text-align: center;
+}
+
+#step_profile h1{
+	text-align: center;
+}
+
+#step_profile img{
+	width: 80%;
 }
 
 #step_favorite {
@@ -66,18 +75,6 @@
 img {
 	width:100%;
 	border-radius: 10px;
-}
-
-#step_home h1 {
-	font-size: 50px;
-}
-
-#step_profile h1 {
-	color: blue;
-}
-
-#step_skills h1 {
-	text-align: center;
 }
 
 #step_experience {
