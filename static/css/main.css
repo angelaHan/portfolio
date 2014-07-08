@@ -57,9 +57,9 @@
 	text-align: center;
 }
 
-/*#step_profile img{
-	width: 80%;
-}*/
+#step_profile img{
+	max-width: 100%;
+}
 
 #step_favorite {
 	background-color: #ebeef5;
