@@ -12,6 +12,11 @@
 	font-family: verdana;
 }
 
+.step h3{
+	font-family: consolas;
+	text-align: center;
+}
+
 #my_portfolio_navbar {
 	margin-bottom:0px;
 	padding-bottom: 0px;
@@ -48,9 +53,9 @@
 	text-align: center;
 }
 
-#step_profile img{
+/*#step_profile img{
 	width: 80%;
-}
+}*/
 
 #step_favorite {
 	background-color: #ebeef5;
@@ -72,13 +77,9 @@
 	margin-right: auto;
 }
 
-img {
-	width:100%;
-	border-radius: 10px;
-}
-
 #step_experience {
 	background-color: #ebeef5;
+	text-align: center;
 }
 
 li {
