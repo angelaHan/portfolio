@@ -14,7 +14,11 @@
 
 .step h3{
 	font-family: consolas;
+<<<<<<< HEAD
 	text-align: center;
+=======
+	color: #03004c;
+>>>>>>> 319d2e05bd507ea46116434b6ec4c86aa0f3f97a
 }
 
 #my_portfolio_navbar {
