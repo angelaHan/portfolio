@@ -61,6 +61,10 @@
 	max-width: 100%;
 }
 
+#step_skills {
+	text-align: center;
+}
+
 #step_favorite {
 	background-color: #ebeef5;
 }
